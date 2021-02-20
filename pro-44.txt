@@ -1,0 +1,39 @@
+Game Design Document
+Fill up the Following document 
+
+________________________________________
+
+
+
+1.	Write the title of your project.
+
+Tilte of my story is Rescue Max.
+____________________________________
+
+
+2.	What is the goal of the game? 
+
+The goal of the game is to rescue the puppy by the mummy 
+dog,by confronting the obstacles.
+__________________________________________
+
+
+3.	Write a brief story of your game?
+
+Max(the puupy dog),while playing he unknowingly fell 
+________________________________________
+
+into the river , and sat on stone,which was on the middle 
+________________________________________
+
+of the river .Then,Milo(the mummy dog) noticed  that  and 
+________________________________________
+
+went to rescue the puppy,by confronting the obstacles.
+________________________________________
+
+Can you help Milo to rescue Max??
+________________________________________
+
+
+ 
